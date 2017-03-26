@@ -21,6 +21,6 @@ e.g.
 
 ## Install
 
-1. Download the package and place it in your DLC directory or Mods directory.
+1. Download the [package](https://github.com/unieagle/AutoBuilderModForCivilization6/archive/master.zip), unzip and place it in your DLC directory or Mods directory.
 2. Copy the `AutoBuilder.lua` into the game's `Assets/UI/Panels` directory. (This is for making the separated lua script to be loaded, if you know the better way, please let me know)
 3. In the game, make sure checked this MOD.
